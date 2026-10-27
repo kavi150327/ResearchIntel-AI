@@ -1,0 +1,6 @@
+{
+  "name": "Research Abstract Classification & Trend Discovery Platform",
+  "description": "Transform Research Papers into Intelligent Insights with NLP preprocessing, supervised machine learning classification, topic discovery, trend analytics, and interactive knowledge graph.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

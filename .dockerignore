@@ -1,0 +1,8 @@
+node_modules
+dist
+.git
+.github
+tests
+python_backend/venv
+data/*.sqlite
+data/*.sqlite-journal
